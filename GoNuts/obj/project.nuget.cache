@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "dyXQmgtTds0vCNfTxXQvtBlUH44Ldahav/4l+KXl5qSyxiIgExdHJSM1swqcwatUXIOQXsjw8p7RUu9nMr20rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jhin\\Desktop\\WCOS\\1117\\GoNuts\\GoNuts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jhin\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.7-rel-27913-00\\microsoft.net.native.compiler.2.2.7-rel-27913-00.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\microsoft.net.uwpcoreruntimesdk\\2.2.9\\microsoft.net.uwpcoreruntimesdk.2.2.9.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\microsoft.netcore.jit\\1.0.2\\microsoft.netcore.jit.1.0.2.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\microsoft.netcore.portable.compatibility\\1.0.1\\microsoft.netcore.portable.compatibility.1.0.1.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\microsoft.netcore.runtime.coreclr\\1.0.2\\microsoft.netcore.runtime.coreclr.1.0.2.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\microsoft.netcore.universalwindowsplatform\\6.2.9\\microsoft.netcore.universalwindowsplatform.6.2.9.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.netcore.windows.apisets\\1.0.1\\microsoft.netcore.windows.apisets.1.0.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform\\6.2.9\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform.6.2.9.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-arm.microsoft.net.native.compiler\\2.2.7-rel-27913-00\\runtime.win10-arm.microsoft.net.native.compiler.2.2.7-rel-27913-00.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-arm.microsoft.net.native.sharedlibrary\\2.2.7-rel-27913-00\\runtime.win10-arm.microsoft.net.native.sharedlibrary.2.2.7-rel-27913-00.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\\2.2.9\\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk.2.2.9.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-arm.microsoft.netcore.universalwindowsplatform\\6.2.9\\runtime.win10-arm.microsoft.netcore.universalwindowsplatform.6.2.9.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-arm64-aot.microsoft.netcore.universalwindowsplatform\\6.2.9\\runtime.win10-arm64-aot.microsoft.netcore.universalwindowsplatform.6.2.9.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-arm64.microsoft.net.native.compiler\\2.2.7-rel-27913-00\\runtime.win10-arm64.microsoft.net.native.compiler.2.2.7-rel-27913-00.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-arm64.microsoft.net.native.sharedlibrary\\2.2.7-rel-27913-00\\runtime.win10-arm64.microsoft.net.native.sharedlibrary.2.2.7-rel-27913-00.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-x64-aot.microsoft.netcore.universalwindowsplatform\\6.2.9\\runtime.win10-x64-aot.microsoft.netcore.universalwindowsplatform.6.2.9.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-x64.microsoft.net.native.compiler\\2.2.7-rel-27913-00\\runtime.win10-x64.microsoft.net.native.compiler.2.2.7-rel-27913-00.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-x64.microsoft.net.native.sharedlibrary\\2.2.7-rel-27913-00\\runtime.win10-x64.microsoft.net.native.sharedlibrary.2.2.7-rel-27913-00.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\\2.2.9\\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk.2.2.9.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\\6.2.9\\runtime.win10-x64.microsoft.netcore.universalwindowsplatform.6.2.9.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-x86-aot.microsoft.netcore.universalwindowsplatform\\6.2.9\\runtime.win10-x86-aot.microsoft.netcore.universalwindowsplatform.6.2.9.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.compiler\\2.2.7-rel-27913-00\\runtime.win10-x86.microsoft.net.native.compiler.2.2.7-rel-27913-00.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.sharedlibrary\\2.2.7-rel-27913-00\\runtime.win10-x86.microsoft.net.native.sharedlibrary.2.2.7-rel-27913-00.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\\2.2.9\\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk.2.2.9.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\\6.2.9\\runtime.win10-x86.microsoft.netcore.universalwindowsplatform.6.2.9.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win7-x64.microsoft.netcore.jit\\1.0.2\\runtime.win7-x64.microsoft.netcore.jit.1.0.2.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\runtime.win7-x64.microsoft.netcore.runtime.coreclr\\1.0.2\\runtime.win7-x64.microsoft.netcore.runtime.coreclr.1.0.2.nupkg.sha512",
+    "C:\\Users\\Jhin\\.nuget\\packages\\runtime.win7-x86.microsoft.netcore.jit\\1.0.2\\runtime.win7-x86.microsoft.netcore.jit.1.0.2.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\runtime.win7-x86.microsoft.netcore.runtime.coreclr\\1.0.2\\runtime.win7-x86.microsoft.netcore.runtime.coreclr.1.0.2.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\runtime.win8-arm.microsoft.netcore.runtime.coreclr\\1.0.2\\runtime.win8-arm.microsoft.netcore.runtime.coreclr.1.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.NETCore.Runtime.CoreCLR 1.0.2 depends on runtime.win8-arm.Microsoft.NETCore.Runtime.CoreCLR (>= 1.0.2-rc3-24212-01) but runtime.win8-arm.Microsoft.NETCore.Runtime.CoreCLR 1.0.2-rc3-24212-01 was not found. An approximate best match of runtime.win8-arm.Microsoft.NETCore.Runtime.CoreCLR 1.0.2 was resolved.",
+      "libraryId": "runtime.win8-arm.Microsoft.NETCore.Runtime.CoreCLR",
+      "targetGraphs": [
+        "UAP,Version=v10.0.17763/win10-arm",
+        "UAP,Version=v10.0.17763/win10-arm-aot"
+      ]
+    }
+  ]
+}
