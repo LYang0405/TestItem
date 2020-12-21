@@ -1,0 +1,16 @@
+C:\Users\Jhin\Desktop\WCOS\MiuiView\bin\Debug\MiuiView.exe.config
+C:\Users\Jhin\Desktop\WCOS\MiuiView\bin\Debug\MiuiView.exe
+C:\Users\Jhin\Desktop\WCOS\MiuiView\bin\Debug\MiuiView.pdb
+C:\Users\Jhin\Desktop\WCOS\MiuiView\obj\Debug\MiuiView.csprojAssemblyReference.cache
+C:\Users\Jhin\Desktop\WCOS\MiuiView\obj\Debug\MainWindow.g.cs
+C:\Users\Jhin\Desktop\WCOS\MiuiView\obj\Debug\App.g.cs
+C:\Users\Jhin\Desktop\WCOS\MiuiView\obj\Debug\MiuiView_MarkupCompile.cache
+C:\Users\Jhin\Desktop\WCOS\MiuiView\obj\Debug\MiuiView_MarkupCompile.lref
+C:\Users\Jhin\Desktop\WCOS\MiuiView\obj\Debug\App.baml
+C:\Users\Jhin\Desktop\WCOS\MiuiView\obj\Debug\MainWindow.baml
+C:\Users\Jhin\Desktop\WCOS\MiuiView\obj\Debug\MiuiView.g.resources
+C:\Users\Jhin\Desktop\WCOS\MiuiView\obj\Debug\MiuiView.Properties.Resources.resources
+C:\Users\Jhin\Desktop\WCOS\MiuiView\obj\Debug\MiuiView.csproj.GenerateResource.cache
+C:\Users\Jhin\Desktop\WCOS\MiuiView\obj\Debug\MiuiView.csproj.CoreCompileInputs.cache
+C:\Users\Jhin\Desktop\WCOS\MiuiView\obj\Debug\MiuiView.exe
+C:\Users\Jhin\Desktop\WCOS\MiuiView\obj\Debug\MiuiView.pdb
